@@ -5,5 +5,4 @@ public class EjercicioGitcasa {
 		System.out.println("Ejemplo desde casa");
 
 	}
-
 }
